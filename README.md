@@ -14,6 +14,7 @@
 ### Connect with me:
 <p align="left">
   
-  <a href = "https://www.linkedin.com/in/najaahmahdi'><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/></a>
+  <a href = "https://www.linkedin.com/in/najaahmahdi'><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
+                                                                                                                     </p>
 ##Languages and Tools
