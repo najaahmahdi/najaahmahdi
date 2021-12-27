@@ -1,4 +1,4 @@
-### Hello Everyone, I'm Najaah 👋
+### Hello Everyone, I'm Najaah! 👋
 
 ## I'm a Student, Creator, and a Mentor!
 
@@ -11,10 +11,7 @@
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: I like to read about personal development & cook. 
 
-### Connect with me:
-<p align="left">
-  
-  <a href = "https://www.linkedin.com/in/najaahmahdi'><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+### Connect with me: Twitter - @najaahimahdi
 
                                                                                                                      </p>
 ##Languages and Tools
