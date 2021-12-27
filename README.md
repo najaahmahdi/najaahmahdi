@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello Everyone, I'm Najaah 👋
 
-
+## I'm a Student, Creator, and a Mentor!
 
 - 🔭 I’m currently working on creating projects.
 - 🌱 I’m currently learning Python, Jira, and Salesforce.
@@ -10,3 +10,5 @@
 - 📫 How to reach me: ...(Instagram)(www.instagram.com/najaahimahdi)
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: I like to read about personal development & cook. 
+
+### Connect with me:
