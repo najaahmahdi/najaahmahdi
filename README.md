@@ -12,3 +12,8 @@
 - ⚡ Fun fact: I like to read about personal development & cook. 
 
 ### Connect with me:
+<p align="left">
+  
+  <a href = "https://www.linkedin.com/in/najaahmahdi'><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/></a>
+
+##Languages and Tools
